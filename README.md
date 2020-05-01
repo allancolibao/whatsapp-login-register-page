@@ -1,6 +1,6 @@
-## WhatsApp Login and Register Page
+## Login and Register Page
 
-This project was built with [Create React App](https://github.com/facebook/create-react-app) and [Material-Ui](https://material-ui.com/)
+This project is build with [Create React App](https://github.com/facebook/create-react-app) and [Material-Ui](https://material-ui.com/)
 
 ## Available Scripts
 
@@ -14,6 +14,10 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ## Screenshots
 
+
+![alt text](public/img/Login.JPG)
+
+![alt text](public/img/Register.JPG)
 
 
 
