@@ -14,6 +14,10 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ## Screenshots
 
+![alt text](public/img/Login.JPG)
+
+![alt text](public/img/Register.JPG)
+
 
 ![alt text](public/img/Login.JPG)
 
